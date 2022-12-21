@@ -30,6 +30,6 @@
 | 用户协议     | 禁止违法+<br />后果自负+<br />GPLv3 | 无         |
 | 内涵信息     | 马化腾                              | 无         |
 
-下载地址: [点我下载](https://github.com/8bd8/idcard-photo/Download`)
+下载地址: [点我下载](https://github.com/8bd8/idcard_photo/tree/main/Download)
 
-源代码：[点击获取](https://github.com/8bd8/idcard-photo/SourceCode)
+源代码：[点击获取](https://github.com/8bd8/idcard_photo/tree/main/SourceCode)
